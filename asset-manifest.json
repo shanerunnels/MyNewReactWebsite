@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/MyNewReactWebsite/static/css/main.5f361e03.chunk.css",
-    "main.js": "/MyNewReactWebsite/static/js/main.ea84ad05.chunk.js",
-    "main.js.map": "/MyNewReactWebsite/static/js/main.ea84ad05.chunk.js.map",
+    "main.css": "/MyNewReactWebsite/static/css/main.1c66ebba.chunk.css",
+    "main.js": "/MyNewReactWebsite/static/js/main.a7270705.chunk.js",
+    "main.js.map": "/MyNewReactWebsite/static/js/main.a7270705.chunk.js.map",
     "runtime-main.js": "/MyNewReactWebsite/static/js/runtime-main.e6055b8e.js",
     "runtime-main.js.map": "/MyNewReactWebsite/static/js/runtime-main.e6055b8e.js.map",
-    "static/js/2.a0c31166.chunk.js": "/MyNewReactWebsite/static/js/2.a0c31166.chunk.js",
-    "static/js/2.a0c31166.chunk.js.map": "/MyNewReactWebsite/static/js/2.a0c31166.chunk.js.map",
+    "static/css/2.cd1c2086.chunk.css": "/MyNewReactWebsite/static/css/2.cd1c2086.chunk.css",
+    "static/js/2.c402159f.chunk.js": "/MyNewReactWebsite/static/js/2.c402159f.chunk.js",
+    "static/js/2.c402159f.chunk.js.map": "/MyNewReactWebsite/static/js/2.c402159f.chunk.js.map",
     "index.html": "/MyNewReactWebsite/index.html",
-    "precache-manifest.036dd71aa23e16008856137b5072b3a8.js": "/MyNewReactWebsite/precache-manifest.036dd71aa23e16008856137b5072b3a8.js",
+    "precache-manifest.d3dfe4ed41c69f958092ed3add219333.js": "/MyNewReactWebsite/precache-manifest.d3dfe4ed41c69f958092ed3add219333.js",
     "service-worker.js": "/MyNewReactWebsite/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/MyNewReactWebsite/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a0c31166.chunk.js.LICENSE.txt": "/MyNewReactWebsite/static/js/2.a0c31166.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/MyNewReactWebsite/static/media/logo.5d5d9eef.svg"
+    "static/css/2.cd1c2086.chunk.css.map": "/MyNewReactWebsite/static/css/2.cd1c2086.chunk.css.map",
+    "static/css/main.1c66ebba.chunk.css.map": "/MyNewReactWebsite/static/css/main.1c66ebba.chunk.css.map",
+    "static/js/2.c402159f.chunk.js.LICENSE.txt": "/MyNewReactWebsite/static/js/2.c402159f.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/MyNewReactWebsite/static/media/Resume.076971e5.pdf",
+    "static/media/shanesheadshot.jpg": "/MyNewReactWebsite/static/media/shanesheadshot.7691cafd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e6055b8e.js",
-    "static/js/2.a0c31166.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ea84ad05.chunk.js"
+    "static/css/2.cd1c2086.chunk.css",
+    "static/js/2.c402159f.chunk.js",
+    "static/css/main.1c66ebba.chunk.css",
+    "static/js/main.a7270705.chunk.js"
   ]
 }
